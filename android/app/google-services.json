@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "232721647035",
+    "project_id": "bunappetite-4719d",
+    "storage_bucket": "bunappetite-4719d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232721647035:android:dac8ae5d728f4e3ef0709e",
+        "android_client_info": {
+          "package_name": "com.bunappetite.bunappetite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232721647035-hf3qu2qcmkhaeapp1hu6as4h68kt2dsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PB0yMc-nicpR0HPiFmzAXUwiNLXhr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232721647035-hf3qu2qcmkhaeapp1hu6as4h68kt2dsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232721647035:android:1fd61353f5c0ca18f0709e",
+        "android_client_info": {
+          "package_name": "com.bunappetite.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232721647035-hf3qu2qcmkhaeapp1hu6as4h68kt2dsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PB0yMc-nicpR0HPiFmzAXUwiNLXhr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232721647035-hf3qu2qcmkhaeapp1hu6as4h68kt2dsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
